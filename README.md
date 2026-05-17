@@ -3,77 +3,77 @@
 <td align="right"><img src="div/cambridge.png" alt="University of Cambridge" height="45"></td>
 </tr></table>
 
-# A Practical Introduction to Simulating Complex Trial Designs
+<h1>A Practical Introduction to<br>Simulating <font color="royalblue">Complex Trial Designs</font></h1>
 
 **18th of May 2026**
 
 **Prof Thomas Jaki** (University of Regensburg / MRC Biostatistics Unit, Cambridge)  
 **Dr Dominique-Laurent Couturier** (MRC Biostatistics Unit, Cambridge)
 
-&nbsp;&nbsp;<font color="gray">Prof Pavel Mozgunov &amp; Dr Tom Burnett (MRC Biostatistics Unit, Cambridge)</font>
+&nbsp;&nbsp;<font color="silver">Dr Pavel Mozgunov (MRC Biostatistics Unit, Cambridge) &amp; Dr Tom Burnett (University of Bath)</font>
 
 ---
 
 ## Timetable
 
-🔵 Lecture &nbsp;&nbsp; 🟢 Practical &nbsp;&nbsp; 🟡 Break
+🟦 Lecture &nbsp;&nbsp; 🟧 Practical &nbsp;&nbsp; ⬜ Break
 
 <table>
 <thead><tr><th>Time</th><th></th><th>Session</th></tr></thead>
 <tbody>
 <tr>
   <td nowrap>09:00 – 09:30</td>
-  <td>🔵</td>
+  <td>🟦</td>
   <td><strong><a href="lectures/L1-Intro-to-sim-studies.pdf">Lecture 1: Introduction to simulation studies</a></strong><br><em>Importance of simulation studies, available guidelines (FDA, EMA, Morris), basic R syntax</em></td>
 </tr>
 <tr>
   <td nowrap>09:30 – 10:00</td>
-  <td>🔵</td>
+  <td>🟦</td>
   <td><strong><a href="lectures/L2-Multi-arm-trials.pdf">Lecture 2: Multi-arm trials</a></strong><br><em>Gentle introduction to multi-arm trials, basic R syntax needed for the exercise</em></td>
 </tr>
 <tr>
   <td nowrap>10:00 – 10:30</td>
-  <td>🟢</td>
+  <td>🟧</td>
   <td><strong><a href="practicals/P1-Intro-to-sims-multi-arms.pdf">Practical 1: Intro to simulation in R and simulation of multi-arm trials</a></strong></td>
 </tr>
 <tr>
   <td nowrap>10:30 – 11:00</td>
-  <td>🟡</td>
+  <td>⬜</td>
   <td><em>Coffee break</em></td>
 </tr>
 <tr>
   <td nowrap>11:00 – 12:00</td>
-  <td>🟢</td>
+  <td>🟧</td>
   <td><strong><a href="practicals/P1-Intro-to-sims-multi-arms.pdf">Practical 1: Continued and discussion</a></strong></td>
 </tr>
 <tr>
   <td nowrap>12:00 – 12:30</td>
-  <td>🔵</td>
+  <td>🟦</td>
   <td><strong><a href="lectures/L3-Multi-arm-multi-stage-trials.pdf">Lecture 3: Multi-arm Multi-Stage designs and MAMS Package</a></strong><br><em>Gentle introduction to MAMS, common shapes of bounds, operating characteristics, basic MAMS syntax</em></td>
 </tr>
 <tr>
   <td nowrap>12:30 – 14:00</td>
-  <td>🟡</td>
+  <td>⬜</td>
   <td><em>Lunch</em></td>
 </tr>
 <tr>
   <td nowrap>14:00 – 15:30</td>
-  <td>🟢</td>
+  <td>🟧</td>
   <td><strong>Practical 2: Simulating a multi-arm multi-stage trial</strong> &nbsp; [<a href="practicals/P2-MAMS.html">HTML</a> | <a href="practicals/P2-MAMS.Rmd">Rmd</a>]</td>
 </tr>
 <tr>
   <td nowrap>15:30 – 16:00</td>
-  <td>🟡</td>
+  <td>⬜</td>
   <td><em>Coffee break</em></td>
 </tr>
 <tr>
   <td nowrap>16:00 – 16:30</td>
-  <td>🟢</td>
+  <td>🟧</td>
   <td><strong>Practical 2: Discussion</strong> &nbsp; [<a href="practicals/P2-MAMS.html">HTML</a> | <a href="practicals/P2-MAMS.Rmd">Rmd</a>]</td>
 </tr>
 <tr>
   <td nowrap>16:30 – 17:15</td>
-  <td>🔵</td>
+  <td>🟦</td>
   <td><strong><a href="lectures/L4-constructing-simultion-studies.pdf">Lecture 4: Constructing a comprehensive simulation study</a></strong><br><em>General considerations in different settings: dose-finding, basket, RAR and MAMS examples</em></td>
 </tr>
 <tr>
