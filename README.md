@@ -1,5 +1,7 @@
-<img src="div/regensburg.png" alt="University of Regensburg" height="70">&nbsp;&nbsp;&nbsp;
-<img src="div/cambridge.png" alt="University of Cambridge" height="50">
+<table width="100%"><tr>
+<td><img src="div/regensburg.png" alt="University of Regensburg" height="70"></td>
+<td align="right"><img src="div/cambridge.png" alt="University of Cambridge" height="45"></td>
+</tr></table>
 
 # A Practical Introduction to Simulating Complex Trial Designs
 
@@ -44,3 +46,22 @@ Dr Dominique-Laurent Couturier (MRC Biostatistics Unit, Cambridge)
 
 - [Practical 1 — Intro to simulation in R and simulation of multi-arm trials](practicals/P1-Intro-to-sims-multi-arms.pdf)
 - Practical 2 — Simulating a multi-arm multi-stage trial: [HTML](practicals/P2-MAMS.html) | [Rmd](practicals/P2-MAMS.Rmd)
+
+---
+
+## References
+
+- Dimairo M, et al. (2020) The Adaptive designs CONSORT Extension (ACE) Statement: A checklist with explanation and elaboration guideline for reporting randomised trials that use an adaptive design. *BMJ*. 369.
+- Dunnett C. (1955) A Multiple Comparison Procedure for Comparing Several Treatments with a Control. *Journal of the American Statistical Association*. 50(272):1096–1121.
+- Hansen AR, Graham DM, Pond GR, Siu LL. (2014) Phase I trial design: is 3+3 the best? *Cancer Control*. 21(3):200–208.
+- Lee KM, Choodari-Oskooei B, Grayling MJ, Jacko P, Kimani PK, Mukherjee A, Pallmann P, Parke T, Robertson DS, Wang Z, Yap C, Jaki T. (2026) Clinical trial simulation: planning with the OCTAVE framework, implementation and validation principles. *Statistics in Medicine*. 45(6–7):e70449.
+- Magirr D, Jaki T, Whitehead J. (2012) A generalized Dunnett test for multi-arm, multi-stage clinical studies with treatment selection. *Biometrika*. 99(2):494–501.
+- Morris TP, White IR, Crowther MJ. (2019) Using simulation studies to evaluate statistical methods. *Statistics in Medicine*. 38(11):2074–2102.
+- Pallmann P, et al. (2018) Adaptive designs in clinical trials: why use them, and how to run and report them. *BMC Medicine*. 16:29.
+- Stallard N, Todd S. (2003) Sequential Designs for Phase III Clinical Trials Incorporating Treatment Selection. *Statistics in Medicine*. 22:689–703.
+
+---
+
+## Acknowledgements
+
+The course material builds on contributions from **Prof Pavel Mozgunov** (MRC Biostatistics Unit, University of Cambridge) and **Dr Tom Burnett** (University of Bath).
