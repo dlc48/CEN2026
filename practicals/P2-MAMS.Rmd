@@ -1,6 +1,6 @@
 ---
 title: "Multi-arm multi-stage trials Simulation" 
-author: "Dom/Pavel"
+author: "Jack/Dom"
 date: '`r format(Sys.time(), "Last modified: %d %b %Y")`'
 output:
   html_document:
@@ -23,7 +23,7 @@ output:
     number_sections: false
 ---
 
-<!--- rmarkdown::render("~/courses/bsu/16m=MamsTrialSimulation/20251022-IBIG/practical/Practical2-MAMS.Rmd") --->
+<!--- rmarkdown::render("~/courses/bsu/16m=MamsTrialSimulation/20260518-CEN/practicals/P2-MAMS/P2-MAMS.Rmd") --->
 
 
 
@@ -31,10 +31,10 @@ output:
 rm(list=ls())
 ```
 
-This markdown document contains the exercises of the second practical session of the course *`A practical introduction to simulating complex trial designs'* (2025 IBIG).
+This markdown document contains the exercises of the second practical session of the course *`A practical introduction to simulating complex trial designs'* (CEN2026).
 
+* thomas.jaki@mrc-bsu.cam.ac.uk
 * dominique.couturier@mrc-bsu.cam.ac.uk
-* pavel.mozgunov@mrc-bsu.cam.ac.uk
 
 ## Load packages
 
