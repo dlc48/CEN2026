@@ -3,14 +3,14 @@
 <td align="right"><img src="div/cambridge.png" alt="University of Cambridge" height="45"></td>
 </tr></table>
 
-<h1>A Practical Introduction to<br>Simulating <font color="royalblue">Complex Trial Designs</font></h1>
+<h1>A Practical Introduction to<br><big>Simulating <font color="royalblue">Complex Trial Designs</font></big></h1>
 
 **18th of May 2026**
 
 **Prof Thomas Jaki** (University of Regensburg / MRC Biostatistics Unit, Cambridge)  
 **Dr Dominique-Laurent Couturier** (MRC Biostatistics Unit, Cambridge)
 
-&nbsp;&nbsp;<font color="silver">Dr Pavel Mozgunov (MRC Biostatistics Unit, Cambridge) &amp; Dr Tom Burnett (University of Bath)</font>
+&nbsp;&nbsp;<em><font color="#999999">Dr Pavel Mozgunov (MRC Biostatistics Unit, Cambridge) &amp; Dr Tom Burnett (University of Bath)</font></em>
 
 ---
 
