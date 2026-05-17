@@ -10,7 +10,7 @@
 **Prof Thomas Jaki** (University of Regensburg / MRC Biostatistics Unit, Cambridge)  
 **Dr Dominique-Laurent Couturier** (MRC Biostatistics Unit, Cambridge)
 
-&nbsp;&nbsp;<em><font color="#999999">Dr Pavel Mozgunov (MRC Biostatistics Unit, Cambridge) &amp; Dr Tom Burnett (University of Bath)</font></em>
+&nbsp;&nbsp;<small><em>Dr Pavel Mozgunov (MRC Biostatistics Unit, Cambridge) &amp; Dr Tom Burnett (University of Bath)</em></small>
 
 ---
 
