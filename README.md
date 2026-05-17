@@ -7,8 +7,10 @@
 
 **18th of May 2026**
 
-Prof Thomas Jaki (University of Regensburg / MRC Biostatistics Unit, Cambridge)  
-Dr Dominique-Laurent Couturier (MRC Biostatistics Unit, Cambridge)
+**Prof Thomas Jaki** (University of Regensburg / MRC Biostatistics Unit, Cambridge)  
+**Dr Dominique-Laurent Couturier** (MRC Biostatistics Unit, Cambridge)
+
+&nbsp;&nbsp;<font color="gray">Prof Pavel Mozgunov &amp; Dr Tom Burnett (MRC Biostatistics Unit, Cambridge)</font>
 
 ---
 
@@ -111,8 +113,3 @@ Dr Dominique-Laurent Couturier (MRC Biostatistics Unit, Cambridge)
 - Pallmann P, et al. (2018) Adaptive designs in clinical trials: why use them, and how to run and report them. *BMC Medicine*. 16:29. [doi:10.1186/s12916-018-1017-7](https://doi.org/10.1186/s12916-018-1017-7)
 - Stallard N, Todd S. (2003) Sequential Designs for Phase III Clinical Trials Incorporating Treatment Selection. *Statistics in Medicine*. 22:689–703. [doi:10.1002/sim.1342](https://doi.org/10.1002/sim.1342)
 
----
-
-## Acknowledgements
-
-The course material builds on contributions from **Prof Pavel Mozgunov** (MRC Biostatistics Unit, University of Cambridge) and **Dr Tom Burnett** (University of Bath).
