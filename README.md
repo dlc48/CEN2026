@@ -59,7 +59,7 @@
 <tr>
   <td nowrap>14:00 – 15:30</td>
   <td>🟧</td>
-  <td><strong>Practical 2: Simulating a multi-arm multi-stage trial</strong> &nbsp; [<a href="practicals/P2-MAMS.html">HTML</a> | <a href="practicals/P2-MAMS.Rmd">Rmd</a>]</td>
+  <td><strong>Practical 2: Simulating a multi-arm multi-stage trial</strong> &nbsp; [<a href="practicals/P2-MAMS.html">HTML</a> | <a href="practicals/P2-MAMS.Rmd">Rmd</a> | <a href="practicals/P2-MAMS-Solutions.Rmd">Solutions (Rmd)</a> | <a href="practicals/P2-MAMS-Solutions.html">Solutions (html)</a>]</td>
 </tr>
 <tr>
   <td nowrap>15:30 – 16:00</td>
@@ -98,7 +98,7 @@
 ### Practicals
 
 - Practical 1 — Intro to simulation in R and simulation of multi-arm trials: [PDF](practicals/P1-Intro-to-sims-multi-arms.pdf) | [R template](practicals/P1-intro-to-sims-template.R) | [R Solutions](practicals/P1-Intro-to-sims-multi-arms-Solutions.R)
-- Practical 2 — Simulating a multi-arm multi-stage trial: [HTML](practicals/P2-MAMS.html) | [Rmd](practicals/P2-MAMS.Rmd)
+- Practical 2 — Simulating a multi-arm multi-stage trial: [HTML](practicals/P2-MAMS.html) | [Rmd](practicals/P2-MAMS.Rmd) | [Solutions (HTML)](practicals/P2-MAMS-Solutions.html) | [Solutions (Rmd)](practicals/P2-MAMS-Solutions.Rmd)
 
 ---
 
