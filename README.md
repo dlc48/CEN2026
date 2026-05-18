@@ -34,7 +34,7 @@
 <tr>
   <td nowrap>10:00 – 10:30</td>
   <td>🟧</td>
-  <td><strong>Practical 1: Intro to simulation in R and simulation of multi-arm trials</strong> &nbsp; [<a href="practicals/P1-Intro-to-sims-multi-arms.pdf">PDF</a> | <a href="practicals/P1-intro-to-sims-template.R">R</a> | href="practicals/P1-Intro-to-sims-multi-arms-Solutions.R">Solutions</a>]</td>
+  <td><strong>Practical 1: Intro to simulation in R and simulation of multi-arm trials</strong> &nbsp; [<a href="practicals/P1-Intro-to-sims-multi-arms.pdf">PDF</a> | <a href="practicals/P1-intro-to-sims-template.R">R</a> | <a href="practicals/P1-Intro-to-sims-multi-arms-Solutions.R">Solutions</a>]</td>
 </tr>
 <tr>
   <td nowrap>10:30 – 11:00</td>
@@ -44,7 +44,7 @@
 <tr>
   <td nowrap>11:00 – 12:00</td>
   <td>🟧</td>
-  <td><strong>Practical 1: Intro to simulation in R and simulation of multi-arm trials</strong> &nbsp; [<a href="practicals/P1-Intro-to-sims-multi-arms.pdf">PDF</a> | <a href="practicals/P1-intro-to-sims-template.R">R</a> | href="practicals/P1-Intro-to-sims-multi-arms-Solutions.R">Solutions</a>]</td>
+  <td><strong>Practical 1: Intro to simulation in R and simulation of multi-arm trials</strong> &nbsp; [<a href="practicals/P1-Intro-to-sims-multi-arms.pdf">PDF</a> | <a href="practicals/P1-intro-to-sims-template.R">R</a> | <a href="practicals/P1-Intro-to-sims-multi-arms-Solutions.R">Solutions</a>]</td>
 </tr>
 <tr>
   <td nowrap>12:00 – 12:30</td>
